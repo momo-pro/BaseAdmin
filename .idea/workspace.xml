@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06c695e6-c112-4a66-86b1-6e2f9adb5da1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/huanzi/qch/baseadmin/BaseAdminApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/momo/base/admin/BaseAdminApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\APP\Download\maven" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../APP/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\APP\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jEQubdRdpciVaaiYtBTH0pMMOe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/momo/base/admin" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.momo.base.admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhf\BaseAdmin\src\main\java\com\momo\base\admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BaseAdminApplication (1)">
+    <configuration name="BaseAdminApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="BaseAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.momo.base.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.momo.base.admin.BaseAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BaseAdmin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.huanzi.qch.baseadmin.BaseAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BaseAdminApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c695e6-c112-4a66-86b1-6e2f9adb5da1" name="Default Changelist" comment="" />
+      <created>1603366994417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603366994417</updated>
+      <workItem from="1603367003190" duration="105000" />
+      <workItem from="1603367137482" duration="4984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603368231734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603368231734" />
+    <state x="494" y="282" key="Github.CreateGistDialog" timestamp="1603371425979">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="282" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1603371425979" />
+    <state width="1323" height="335" key="GridCell.Tab.0.bottom" timestamp="1603370644212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603370644212" />
+    <state width="1323" height="335" key="GridCell.Tab.0.center" timestamp="1603370644212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603370644212" />
+    <state width="1323" height="335" key="GridCell.Tab.0.left" timestamp="1603370644212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603370644212" />
+    <state width="1323" height="335" key="GridCell.Tab.0.right" timestamp="1603370644212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603370644212" />
+    <state width="1323" height="335" key="GridCell.Tab.1.bottom" timestamp="1603370644213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603370644213" />
+    <state width="1323" height="335" key="GridCell.Tab.1.center" timestamp="1603370644213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603370644213" />
+    <state width="1323" height="335" key="GridCell.Tab.1.left" timestamp="1603370644213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603370644213" />
+    <state width="1323" height="335" key="GridCell.Tab.1.right" timestamp="1603370644213">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="335" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603370644213" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1603370811957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603370811957" />
+    <state x="482" y="141" key="chooseDestDirectoryDialog" timestamp="1603368535790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1603368535790" />
+  </component>
+</project>
